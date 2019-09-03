@@ -37,8 +37,8 @@ There are some code examples that you can use for your CS230 projects. The code 
 
 	4.2 Character_Level_Language_Model
 
-	4.3 Emojify
+	4.3 LSTM_Emojify
 
-	4.4 MachineTranslation
+	4.4 Machine_Translation_Bilstm_Attention
 ```
 
