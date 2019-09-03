@@ -11,7 +11,7 @@ There are some code examples that you can use for your CS230 projects. The code 
 
 2 neutral_network
 
-	2.1 logistic_regression_with_neural_network
+	2.1 logistic_regression_with_neutral_network
 
 	2.2 neutral_network_with_a_hidden_layer
 
@@ -25,20 +25,20 @@ There are some code examples that you can use for your CS230 projects. The code 
 
 3 CNN
 
-	3.1 RNN_StebByStey
+	3.1 CNN_step_by_step
 
-	3.2 Keras_Tutorial
+	3.2 Keras_tutorial
 
-	3.3 Car_detection_for_Autonomous_Driving
+	3.3 3_car_detection_for_autonomous_driving
 
 4 RNN
 
-	4.1 RNN_LSTM_StepByStep
+	4.1 RNN_LSTM_step_by_step
 
-	4.2 Character_Level_Language_Model
+	4.2 character_level_language_model
 
 	4.3 LSTM_Emojify
 
-	4.4 Machine_Translation_Bilstm_Attention
+	4.4 machine_translation_bilstm_attention
 ```
 
