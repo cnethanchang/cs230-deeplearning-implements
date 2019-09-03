@@ -15,11 +15,11 @@ There are some code examples that you can use for your CS230 projects. The code 
 
 	2.2 neutral_network_with_a_hidden_layer
 
-	2.3 building_deep_neural_network_SteyByStey
+	2.3 building_deep_neural_network_step_by_step
 
 	2.4 initialization_and_regularization_for_nn
 
-	2.5 minibatch_gradientdescent_and_momentum_adam_optimization_method
+	2.5 minibatch_gradientdescent_and_momentum_adam_optimization_methods
 
 	2.6 nn_with_tensorflow_and_tensorflow_tutorial
 
