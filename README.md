@@ -9,11 +9,11 @@ There are some code examples that you can use for your CS230 projects. The code 
 
 	1.2 logistic regression
 
-2 neutral_network
+2 neural_network
 
-	2.1 logistic_regression_with_neutral_network
+	2.1 logistic_regression_with_neural_network
 
-	2.2 neutral_network_with_a_hidden_layer
+	2.2 neural_network_with_a_hidden_layer
 
 	2.3 building_deep_neural_network_step_by_step
 
